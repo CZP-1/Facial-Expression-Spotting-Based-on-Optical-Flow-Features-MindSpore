@@ -17,9 +17,9 @@ Our pipeline can be devided into 4 parts:
 
 Facial cropping and alignment
 
-Optical flow fezture extraction inRoI
+Optical flow fezture extraction in RoI
 
-Peak location and expression spotting and 
+Peak location and expression spotting
  
 Intervals processing
 
